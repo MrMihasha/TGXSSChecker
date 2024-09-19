@@ -1,6 +1,4 @@
 # TGXSSChecker
-
-# TGXSSChecker
 TelegramBot XSS Checker
 
 # XSS Checker Telegram Bot
